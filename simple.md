@@ -5,7 +5,7 @@ author: "Author"
 bibliography: "biblio.bib"
 link-citations: true
 urlcolor: "blue"
-csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/harvard-anglia-ruskin-university.csl"
+csl: "./acm.csl"
 ---
 
 Véase [@item1]

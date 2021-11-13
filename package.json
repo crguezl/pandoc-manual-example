@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "packages": "sudo -i tlmgr update --list",
-    "simple.pdf": "pandoc --bibliography=biblio.bib --citeproc simple.md -o simple.pdf"
+    "simple.pdf": "pandoc --bibliography=biblio.bib --citeproc simple.md -o simple.pdf",
+    "acmcsl": "pandoc --bibliography=biblio.json -csl acm.csl --citeproc simple.md -o simple.pdf"
   },
   "repository": {
     "type": "git",
