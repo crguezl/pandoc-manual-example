@@ -9,7 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crguezl/pandoc-manual-example.git"
+    "url": "git+https://github.com/crguezl/pandoc-manual-example.git",
+    "open": "open simple.pdf"
   },
   "keywords": [],
   "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
