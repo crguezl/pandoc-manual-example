@@ -4,7 +4,8 @@
   "description": "Minimal template for pandoc with example taken from the pandoc manual",
   "main": "index.js",
   "scripts": {
-    "packages": "sudo -i tlmgr update --list"
+    "packages": "sudo -i tlmgr update --list",
+    "simple.pdf": "pandoc --bibliography=biblio.bib --citeproc simple.md -o simple.pdf"
   },
   "repository": {
     "type": "git",
