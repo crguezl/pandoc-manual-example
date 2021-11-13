@@ -10,8 +10,6 @@ date: November 02, 2021
 
 # Description
 
-$h^4 =x_{2}$
-
 Pandoc is a [Haskell] library for converting from one markup format to
 another, and a command-line tool that uses this library.
 
