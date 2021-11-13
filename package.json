@@ -1,0 +1,20 @@
+{
+  "name": "from-manual",
+  "version": "1.0.0",
+  "description": "Minimal template for pandoc with example taken from the pandoc manual",
+  "main": "index.js",
+  "scripts": {
+    "packages": "sudo -i tlmgr update --list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crguezl/pandoc-manual-example.git"
+  },
+  "keywords": [],
+  "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crguezl/pandoc-manual-example/issues"
+  },
+  "homepage": "https://github.com/crguezl/pandoc-manual-example#readme"
+}
