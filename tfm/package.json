@@ -1,0 +1,12 @@
+{
+  "name": "tfm",
+  "version": "1.0.0",
+  "description": "* <https://ronn-bundgaard.dk/blog/convert-docx-to-markdown-with-pandoc/> * <https://tewarid.github.io/2017/12/04/word-to-markdown-using-pandoc.html>",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -fR  'TFM de MFP ejemplo.odt' TFMdeMFPejemplo.md TFMdeMFPejemplo.pdf TFMdeMFPejemplo.rtf  TFMdeMFPejemplo.txt images/"
+  },
+  "keywords": [],
+  "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
+  "license": "ISC"
+}
