@@ -8,6 +8,7 @@ tasks:
       git config --global alias.br branch
       git config --global alias.ci commit
       git config --global alias.st status  
+      eval "$(pandoc --bash-completion)"
       # sudo apt-get -q update &&  sudo apt-get install -yq texlive &&  sudo apt-get install  texlive-latex-extra &&  sudo rm -rf /var/lib/apt/lists/*
       # brew install pandoc
   - command: echo hello
